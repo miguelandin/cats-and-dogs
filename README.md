@@ -1,14 +1,18 @@
 # Clasificador entre Perros y Gatos
 
-# tree
+## tree
+```
+```
 cats-and-dogs
 ├── Cats_Dogs.zip
 ├── CyD_Miguel_Cabrera.ipynb
 ├── lupe.jpg
 ├── README.md
 └── requirements.txt
+```
+```
 
-# Instalación
+## Instalación
 ```bash
 ```bash
 # Clonar repositorio
