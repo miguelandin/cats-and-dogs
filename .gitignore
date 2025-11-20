@@ -1,0 +1,25 @@
+# Entornos virtuales
+.venv/
+
+# Dataset (no subir el descomprimido)
+Cats_Dogs/
+# Cats_Dogs.zip  # Descomenta si no quieres subir el dataset
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Modelos grandes (opcional)
+models/*.h5
+!models/.gitkeep
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
