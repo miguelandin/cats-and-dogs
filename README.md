@@ -6,7 +6,9 @@
 cats-and-dogs/
 ├── Cats_Dogs.zip
 ├── CyD_Miguel_Cabrera.ipynb
-├── lupe.jpg
+├── lupe-pics
+│   ├── lupe1.jpg
+│   └── lupe.jpg
 ├── README.md
 └── requirements.txt
 ```
